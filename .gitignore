@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+BackupFiles/
+FlaskApp/__pycache__/
+venv/
+*.log
+*.pdf
+*.sv
