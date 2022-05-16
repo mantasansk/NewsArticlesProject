@@ -14,7 +14,7 @@ Possible categories are:
 
 ## Final model:
 - Logistic regression, using vectorized titles, their length and word count
-- 87.484 % accuracy and 87.490 % f1 scores
+- 87.481 % accuracy and 87.487 % f1 scores
 
 #### Conclusion
 Reached results show that titles differ from one category to another, so they can be successfully classified.
